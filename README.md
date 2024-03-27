@@ -1,17 +1,17 @@
-#ElectrifyIt Assignment [Watch Live](https://electrifyltassignmentreportdashboard.netlify.app/)
-##Description
+# ElectrifyIt Assignment [Watch Live](https://electrifyltassignmentreportdashboard.netlify.app/)
+## Description
 This repository contains the code for the ElectrifyIt assignment, which is a full-stack application. The main feature of this application is the report dashboard, where users can view dynamic data fetched from the backend. Additionally, users have the option to download the data as a PDF or CSV file.
 
-##Features
+## Features
 Report Dashboard: Provides a user-friendly interface to view dynamic data.
 Dynamic Data: Data is fetched from the backend and displayed in real-time.
 Download Options: Users can download the displayed data as PDF or CSV files.
 Full Stack: The application includes both frontend and backend components.
-###Technologies Used
-####Frontend:
+### Technologies Used
+#### Frontend:
 React.js (or relevant frontend framework/library)
 
-Backend:
+#### Backend:
 Node.js
 Express.js (or relevant backend framework)
 MongoDB (or any other database used)
@@ -19,7 +19,7 @@ Mongoose (for MongoDB interactions)
 Data Visualization:
 
 
-##Clone this repository to your local machine:
+## Clone this repository to your local machine:
 bash
 Copy code
 git clone <repository_url>
@@ -58,7 +58,7 @@ Start the frontend server:
 cd Client
 npm start
 
-##Usage
+## Usage
 Once the application is launched, users can navigate to the report dashboard.
 Dynamic data will be fetched from the backend and displayed in graphical format.
 Users can interact with the data as necessary.
@@ -69,5 +69,5 @@ To download the displayed data, users can select the desired format (PDF or CSV)
 <a href="https://ibb.co/J2nJrmM"><img src="https://i.ibb.co/J2nJrmM/Screenshot-41.png" alt="Screenshot-41" border="0"></a>
 <a href="https://ibb.co/4dpMT1X"><img src="https://i.ibb.co/4dpMT1X/Screenshot-44.png" alt="Screenshot-44" border="0"></a>
 
-##Thank you for the reading it.
+## Thank you for the reading it.
 
