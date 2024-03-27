@@ -2,7 +2,6 @@ import express from "express"
 const router = express.Router();
 import Vehicle from "../Models/VehicaleSchema.js";
 
-// Route to fetch all users
 router.get('/VehicleData', async (req, res) => {
     try {
         
