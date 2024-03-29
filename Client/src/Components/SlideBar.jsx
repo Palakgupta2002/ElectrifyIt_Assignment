@@ -14,11 +14,12 @@ const SlideBar = () => {
     <Navbar fluid rounded className='bg-slate-800'>
       <Navbar.Toggle  />
       <Navbar.Collapse>
-        <Sidebar className='sliderbar h-screen w-fit border-2'>
+        
+        <Sidebar className='sliderbar h-screen w-fit m-4'>
           <Sidebar.Items>
             <Sidebar.ItemGroup>
               <Sidebar.Item href="#">
-                <div className="flex gap-3">
+                <div className="flex gap-3 ">
                   <img width={'20px'} src={overview} alt="overview" />{' '}
                   Overview
                 </div>
@@ -41,7 +42,7 @@ const SlideBar = () => {
                 </div>
               </Sidebar.Item>
               <Sidebar.Item href="#">
-                <div className="flex gap-3">
+                <div className="flex gap-3 ">
                   <img width={'20px'} src={schedules} alt="Schedules" />{' '}
                   Schedules
                 </div>
@@ -61,6 +62,7 @@ const SlideBar = () => {
           </Sidebar.Items>
         </Sidebar>
       </Navbar.Collapse>
+      
     </Navbar>
   );
 }

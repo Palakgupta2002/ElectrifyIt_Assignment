@@ -11,7 +11,7 @@ const app=express();
 
 const PORT=5000;
 
-mongoose.connect("mongodb://localhost:27017/VehiclsReport")
+mongoose.connect(process.env.MONGO_URL) 
 .then(()=>{
     console.log("mongodb is connected")
 }).catch(err=>console.log(err,"something wrong"))

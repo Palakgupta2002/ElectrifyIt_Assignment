@@ -5,7 +5,7 @@ import Body from './Body'
 
 const Report = () => {
   return (
-    <div className='flex overflow-hidden'>
+    <div className='flex '>
         <SlideBar/>
         <Body/>
     </div>

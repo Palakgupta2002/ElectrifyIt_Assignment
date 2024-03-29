@@ -1,12 +1,40 @@
-
-.bg-gray-50{
+.bg-gray-50 {
   background-color: transparent !important;
+}
+ul {
+  border: none;
+}
+* {
+  color: white !important;
+  background-color: rgb(29, 37, 54)  ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tableHead th {
+  background-color: rgb(62, 67, 83);
   
 }
-ul{
+.shadowStyle{
+background-color: transparent;
+border: 2px solid gray;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.body{
+  
+  background-color: rgb(29, 37, 54);
+ 
+}
+.text-gray-700{
+ 
+  background-color: rgb(16, 21, 32) !important;
+}
+.text-gray-700:hover{
+  background-color: rgb(16, 21, 32) !important;
+}
+.border-2{
   border: none;
+}
+.border{
+  border: none;
+}
 
-}
-*{
-  color: white; 
-}
+
