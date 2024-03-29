@@ -1,4 +1,5 @@
 # ElectrifyIt Assignment [Watch Live](https://electrifyltassignmentreportdashboard.netlify.app/)
+ [Watch Video]:(https://www.canva.com/design/DAGA6i_pfDo/SZFVwh-v6qAYpeJAVWvJnA/edit?utm_content=DAGA6i_pfDo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Description
 This repository contains the code for the ElectrifyIt assignment, which is a full-stack application. The main feature of this application is the report dashboard, where users can view dynamic data fetched from the backend. Additionally, users have the option to download the data as a PDF or CSV file.
 
@@ -70,4 +71,7 @@ To download the displayed data, users can select the desired format (PDF or CSV)
 <a href="https://ibb.co/4dpMT1X"><img src="https://i.ibb.co/4dpMT1X/Screenshot-44.png" alt="Screenshot-44" border="0"></a>
 
 ## Thank you for the reading it.
+
+## Note:- I added some sample CSV data file  here , which is not added in cluster so for the testing purpose you can make your own Database using mongoDB compass or atlas and import the csv file .
+[sample data](https://jmp.sh/s/t2eDgEqv8QERfFCxbeMR)
 
