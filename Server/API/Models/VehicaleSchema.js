@@ -7,27 +7,28 @@ const vehicleSchema = new mongoose.Schema({
     required: true,
     unique: true
   },
-  make: {
+  Make: {
     type: String,
     required: true
   },
-  model: {
+  Model: {
     type: String,
     required: true
   },
-  type: {
+  Type: {
     type: String,
     required: true
   },
-  date: {
+  Date: {
     type: Date,
     required: true
   },
-  milesDriven: {
+  MilesDriven: {
     type: Number,
     required: true
   },
-  LicencePlate:{
+  
+LicensePlate:{
     type:String,
     required:true
   }
@@ -49,6 +50,6 @@ vehicleSchema.pre('save', async function(next) {
     }
 });
 
-const Vehicle = mongoose.model('Vehicle', vehicleSchema);
+const Vehicle = mongoose.model('Vehicles', vehicleSchema);
 
 export default Vehicle
