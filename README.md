@@ -1,5 +1,5 @@
 # ElectrifyIt Assignment [Watch Live](https://electrifyltassignmentreportdashboard.netlify.app/)
- [Watch Video]:(https://www.canva.com/design/DAGA6i_pfDo/SZFVwh-v6qAYpeJAVWvJnA/edit?utm_content=DAGA6i_pfDo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ [Watch Video](https://www.canva.com/design/DAGA6i_pfDo/SZFVwh-v6qAYpeJAVWvJnA/edit?utm_content=DAGA6i_pfDo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Description
 This repository contains the code for the ElectrifyIt assignment, which is a full-stack application. The main feature of this application is the report dashboard, where users can view dynamic data fetched from the backend. Additionally, users have the option to download the data as a PDF or CSV file.
 
